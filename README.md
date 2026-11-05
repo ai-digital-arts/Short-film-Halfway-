@@ -12,12 +12,12 @@
 فيلم سينمائي قصير مدته 6 دقائق و10 ثوانٍ، يدور حول "كريم" (7 سنوات) الذي يقطع رحلة نزوح شتوية مع أخيه الأكبر "يوسف" (10 سنوات) للوصول إلى مخيم للاجئين. يُستعرض الفيلم بالكامل من منظور "كريم"، ليتكشف للمشاهد في النهاية أن "يوسف" قد توفي في انفجار بمفترق الطريق، وأن النصف الثاني من الرحلة لم يكن سوى تجسيد خيالي عاشه كريم في عقله إنكاراً لحقيقة الفقد.
 
 **Team Members:**
-Reem Kamal 
-Gina Hassan
-Arwa Mohsen
-Zeinab Abdelnasser
-Doaa Mahmoud
-Nagat Mohammed
+Reem Kamal, 
+Gina Hassan,
+Arwa Mohsen,
+Zeinab Abdelnasser,
+Doaa Mahmoud,
+Nagat Mohammed,
 
 **Work Plan:**
 
