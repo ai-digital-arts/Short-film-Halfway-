@@ -1,4 +1,4 @@
-# Short-film-Halfway-(نصف الطريق) 
+# Short-film-Halfway-(نصف طريق) 
 
 **Project Description:**
 
@@ -6,7 +6,7 @@
 
 **Project Purpose:** **1.Artistic & Human Dimension:** To illuminate the psychological and emotional toll of war and displacement on children, exploring trauma and denial through deeply evocative visual storytelling rather than explicit exposition. **2.Technical Dimension (AI Integration):** To demonstrate a complete model for short film production using cutting-edge AI tools—achieving precise visual consistency, balanced character modeling, cinematic lighting, intentional camera movements, and immersive audio engineering across every scene.
 
-**Project Name:** Short film-Halfway (نصف الطريق)
+**Project Name:** Short film-Halfway (نصف طريق)
 
 **Project Idea:** A 6-minute and 10-second cinematic short film following 7-year-old Kareem as he makes a harsh winter displacement journey alongside his 10-year-old brother, Youssef, toward a refugee camp. Told entirely through Kareem's perspective, the film reveals a poignant twist at the end: Youssef actually died in an explosion at a crossroads halfway through their journey. The second half of the trek was merely an imaginary manifestation created by Kareem’s mind as a defense mechanism to deny the devastating truth of his loss. 
 فيلم سينمائي قصير مدته 6 دقائق و10 ثوانٍ، يدور حول "كريم" (7 سنوات) الذي يقطع رحلة نزوح شتوية مع أخيه الأكبر "يوسف" (10 سنوات) للوصول إلى مخيم للاجئين. يُستعرض الفيلم بالكامل من منظور "كريم"، ليتكشف للمشاهد في النهاية أن "يوسف" قد توفي في انفجار بمفترق الطريق، وأن النصف الثاني من الرحلة لم يكن سوى تجسيد خيالي عاشه كريم في عقله إنكاراً لحقيقة الفقد.
